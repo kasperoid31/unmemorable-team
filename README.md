@@ -25,7 +25,7 @@ Unmemorable Team — небольшая группа разработчиков,
 
 ## Контакты
 
-- Telegram: [@kasper31](https://t.me/kasper31)
+- Telegram: [@pro100chnl](https://t.me/pro100chnl)
 - Modrinth: [kasperoid](https://modrinth.com/user/kasperoid)
 
 ---
@@ -34,7 +34,7 @@ Unmemorable Team — небольшая группа разработчиков,
 *Мы не запоминаемся. Наши миры — запоминаются.*
 
 <p align="center">
-  <a href="https://t.me/kasper31">
+  <a href="https://t.me/pro100chnl">
     <img src="https://github.com/user-attachments/assets/7c2a0c83-85f2-4550-855b-12ab155ac54c" width="176" height="62" alt="Telegram">
   </a>
   <a href="https://modrinth.com/user/kasperoid">

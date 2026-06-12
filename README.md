@@ -1,7 +1,11 @@
 # unmemorable-team
 We're the ones who created the Memory Leak mod. People who create really cool projects.
 
-<img width="1456" height="720" alt="icon" src="https://github.com/user-attachments/assets/2dd3b577-3582-451a-9a4d-817e648f4750" />
+<p align="center">
+  <a href="https://modrinth.com/organization/unmemorable">
+    <img width="1456" height="720" alt="icon" src="https://github.com/user-attachments/assets/2dd3b577-3582-451a-9a4d-817e648f4750">
+  </a>
+</p>
 
 # 🧠 Unmemorable Team
 

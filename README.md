@@ -1,4 +1,5 @@
 # unmemorable-team
+
 We're the ones who created the Memory Leak mod. People who create really cool projects.
 
 <p align="center">
@@ -9,25 +10,25 @@ We're the ones who created the Memory Leak mod. People who create really cool pr
 
 # 🧠 Unmemorable Team
 
-> *«Мы не пишем моды. Мы создаём утечки.»*
+> *"We don't write mods. We create leaks."*
 
 ---
 
-## О команде
+## About the team
 
-Unmemorable Team — небольшая группа разработчиков, делающих психологические хоррор-моды для Minecraft. Без скримеров, боссов и оружия. Только страх, который остаётся после выхода из игры.
-
----
-
-## Философия
-
-- Никаких скримеров
-- Всё обратимо, сохранения целы
-- Лор объясняет каждую механику
+Unmemorable Team is a small group of developers creating psychological horror mods for Minecraft. No jump scares, no bosses, no weapons. Only the fear that stays with you after you quit the game.
 
 ---
 
-## Контакты
+## Philosophy
+
+- No jump scares
+- Everything is reversible, saves are safe
+- Lore explains every mechanic
+
+---
+
+## Contacts
 
 - Telegram: [@pro100chnl](https://t.me/pro100chnl)
 - Modrinth: [kasperoid](https://modrinth.com/user/kasperoid)
@@ -35,7 +36,7 @@ Unmemorable Team — небольшая группа разработчиков,
 ---
 
 **Unmemorable Team**  
-*Мы не запоминаемся. Наши миры — запоминаются.*
+*We don't remember. Our worlds do.*
 
 <p align="center">
   <a href="https://t.me/pro100chnl">
@@ -48,6 +49,3 @@ Unmemorable Team — небольшая группа разработчиков,
     <img src="https://github.com/user-attachments/assets/033645dc-22e6-44ec-83e1-fbc1153c2e37" width="176" height="62" alt="Discord">
   </a>
 </p>
-
-
-

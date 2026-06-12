@@ -3,7 +3,6 @@
 build/
 out/
 bin/
-logs/
 
 # IDE
 .idea/
@@ -13,10 +12,13 @@ logs/
 .project
 .classpath
 
-# Gradle Wrapper
-gradle-wrapper.jar
-gradle/wrapper/gradle-wrapper.properties
-
 # OS
 .DS_Store
 Thumbs.db
+
+# Logs
+logs/
+crash-reports/
+
+# Local config
+config/memoryleak_local.json

@@ -2,6 +2,14 @@
 
 > *Your world is not a world. It's a file that was never closed.*
 
+<!-- ЗДЕСЬ ПОЯВИЛИСЬ ЗНАЧКИ -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Minecraft-26.1.x-blue" alt="Minecraft 26.1.x">
+  <img src="https://img.shields.io/badge/Loader-Fabric-orange" alt="Loader Fabric">
+  <img src="https://img.shields.io/badge/Java-25-red" alt="Java 25">
+  <img src="https://img.shields.io/badge/License-Modified%20ARR-lightgrey" alt="License Modified ARR">
+</p>
+
 You enter a new world. Everything is as usual.
 
 The sun rises over the horizon. Trees reach for the sky. Caves are dark and damp. You gather wood, craft an axe, build your first house. Torches light up the walls. You feel safe.

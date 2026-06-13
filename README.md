@@ -40,12 +40,12 @@ Unmemorable Team is a small group of developers creating psychological horror mo
 
 <p align="center">
   <a href="https://t.me/pro100chnl">
-    <img src="https://github.com/user-attachments/assets/7c2a0c83-85f2-4550-855b-12ab155ac54c" width="176" height="62" alt="Telegram">
+    <img src="https://github.com/user-attachments/assets/25c309da-eb15-430e-ad6e-f242a8542eb4" width="176" height="62" alt="Telegram">
   </a>
   <a href="https://modrinth.com/user/kasperoid">
-    <img src="https://github.com/user-attachments/assets/3ffb38ea-aabc-4051-a640-a92172b8e300" width="176" height="62" alt="Modrinth">
+    <img src="https://github.com/user-attachments/assets/09e4b92b-5497-4b87-95cd-d6865d97ca3f" width="176" height="62" alt="Modrinth">
   </a>
   <a href="https://discord.gg/wtGCQfjhB2">
-    <img src="https://github.com/user-attachments/assets/033645dc-22e6-44ec-83e1-fbc1153c2e37" width="176" height="62" alt="Discord">
+    <img src="https://github.com/user-attachments/assets/7c16d7e2-b536-43aa-8b75-e307a24308a8" width="176" height="62" alt="Discord">
   </a>
 </p>

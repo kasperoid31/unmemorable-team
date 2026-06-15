@@ -39,25 +39,34 @@ No jump scares. No bosses. No weapons. Just atmosphere, sound, and the slow, pat
 
 ## 🩸 Our projects
 
+<div align="center">
+
 <table>
-<tr>
-<td width="140" align="center">
-  <a href="https://modrinth.com/project/memoryleak"><img src="https://img.shields.io/badge/-MEMORY%20LEAK-1a0033?style=for-the-badge" alt="Memory Leak"></a>
-</td>
-<td>
-  <b>Our flagship.</b> A psychological horror mod about a world that slowly stops behaving like a world — and starts behaving like a file that someone forgot to close. Built around atmosphere, sound design, and dread that builds over time instead of all at once.<br><br>
-  <a href="https://modrinth.com/project/memoryleak">📥 Modrinth</a> &nbsp;·&nbsp; <a href="https://github.com/kasperoid31/unmemorable-team">💻 Source</a> &nbsp;·&nbsp; <a href="https://discord.gg/wtGCQfjhB2">💬 Discuss</a>
-</td>
-</tr>
+<tr><td align="center" width="620">
+
+<br>
+
+<img src="https://raw.githubusercontent.com/kasperoid31/unmemorable-team/main/Memory%20Leak%20/assets/icon.png" width="120" alt="Memory Leak" />
+
+### 🧠 Memory Leak
+
+***A world that slowly stops behaving like a world.***
+
+A psychological horror mod built around atmosphere, sound design,
+and dread that grows over time instead of all at once.
+
+<a href="https://modrinth.com/project/memoryleak"><img src="https://img.shields.io/badge/Modrinth-download-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth"></a>
+<a href="https://github.com/kasperoid31/unmemorable-team"><img src="https://img.shields.io/badge/GitHub-source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"></a>
+<a href="https://discord.gg/wtGCQfjhB2"><img src="https://img.shields.io/badge/Discord-discuss-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+
+<br><br>
+
+</td></tr>
 </table>
 
-<div align="center">
-<a href="https://github.com/kasperoid31/unmemorable-team">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kasperoid31&repo=unmemorable-team&theme=dark&border_color=3b0a4d&bg_color=0d1117&title_color=A855F7&icon_color=A855F7" alt="repo" />
-</a>
-</div>
+<sub>🌒 More projects are in the dark. We'll turn the lights on when they're ready.</sub>
 
-> More projects are in the dark. We'll turn the lights on when they're ready.
+</div>
 
 ---
 

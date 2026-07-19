@@ -1,3 +1,3 @@
 # Credits
 
-- **Testers** — yato, Eqweriq, Kasperoid
+- **Testers** — yato, Kasperoid

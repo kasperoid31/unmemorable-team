@@ -150,7 +150,7 @@ Yes, please do — and tell us about it in Discord. We love seeing first reactio
 ## 🔗 Connect
 
 <p align="center">
-  <a href="https://t.me/pro100chnl">
+  <a href="https://t.me/prostoimpery">
     <img src="https://github.com/user-attachments/assets/25c309da-eb15-430e-ad6e-f242a8542eb4" width="176" height="62" alt="Telegram">
   </a>
   <a href="https://modrinth.com/user/kasperoid">
